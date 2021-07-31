@@ -10,13 +10,13 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 ---
 # Course lecture silide
 
-* [Course overview and Introduction to Linux]()
-* [Intruduction to NGS Technologies]() 
-* [NGS Data Format and Analysis Flow]()
-* [NGS Alignment]()
-* [NGS Variant Calling (Germline/Somatic)]()
-* [NGS SV/CNV Calling]()
-* [NGS Variant Annotation for Clinical]()
+* [Course overview and Introduction to Linux](https://drive.google.com/drive/folders/1-6F-cK9fmOqr2-911gTH1D2s6Uabba19?usp=sharing)
+* [Intruduction to NGS Technologies](https://drive.google.com/drive/folders/1-rXCqgxBli7KAJHW9hDBLAfurP9VYF-f?usp=sharing) 
+* [NGS Data Format and Analysis Flow](https://drive.google.com/drive/folders/1-r5uNxmqhuKXhvT2x8f7lihp9bhCRubE?usp=sharing)
+* [NGS Alignment](https://drive.google.com/drive/folders/1-kQYy-4Zp4U1svHceqA6l-2sSruGmhVx?usp=sharing)
+* [NGS Variant Calling (Germline/Somatic)](https://drive.google.com/drive/folders/1-q_YLJZSmkGb1bScMbxW0B6SKUPimuil?usp=sharing)
+* [NGS SV/CNV Calling](https://drive.google.com/drive/folders/1-fHz40jk_jekN7vYXRTM-AgH5Cjv9b3M?usp=sharing)
+* [NGS Variant Annotation for Clinical](https://drive.google.com/drive/folders/1-TiHgZzTE8dpnA_amWY26fo4E1hnutsl?usp=sharing)
 
 ---
 # Hands-On
@@ -74,7 +74,7 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
     `/pkg/biology/reference/Homo_sapiens/GATK/hg19/ucsc.hg19.fasta`
 
   * HG38
-  
+
     `/pkg/biology/reference/Homo_sapiens/GATK/hg38/Homo_sapiens_assembly38.fasta`
 
 
@@ -83,16 +83,16 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 
 * [FASTQC 0.11.9](https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc)
 * [BWA-0.7.17(r1188)](https://github.com/lh3/bwa)
-* [samtools 1.10](https://github.com/samtools/samtools)
-* [htslib 1.10.2](https://github.com/samtools/htslib)
-* [bcftools 1.10.2](https://github.com/samtools/bcftools)
-* [sambamba 0.7.1](https://github.com/biod/sambamba)
-* [bedtools2 2.29.2](https://github.com/arq5x/bedtools2)
-* [GATK 4.1.8.1](https://github.com/broadinstitute/gatk/releases)
+* [samtools 1.13](https://github.com/samtools/samtools)
+* [htslib 1.13](https://github.com/samtools/htslib)
+* [bcftools 1.3](https://github.com/samtools/bcftools)
+* [sambamba 0.8.0](https://github.com/biod/sambamba)
+* [bedtools2 2.30.0](https://github.com/arq5x/bedtools2)
+* [GATK 4.2.1.0](https://github.com/broadinstitute/gatk/releases)
 * [vcftools 0.1.16](https://github.com/vcftools/vcftools)
 * [JAX-CNV 1.1.0](https://github.com/wanpinglee/JAX-CNV)
-* [Annovar (2019Oct24)](https://doc-openbio.readthedocs.io/projects/annovar/en/latest/user-guide/download/)
-* [AnnotSV 2.4](https://lbgi.fr/AnnotSV/downloads)
+* [Annovar (2019Oct24)](https://www.openbioinformatics.org/annovar/annovar_download_form.php)
+* [AnnotSV v3.0.9 ](https://github.com/lgmgeo/AnnotSV)
 
 
 ---
