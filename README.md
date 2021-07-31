@@ -70,9 +70,11 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 # Reference Genome
 * Human
   * HG19
+
     `/pkg/biology/reference/Homo_sapiens/GATK/hg19/ucsc.hg19.fasta`
 
   * HG38
+  
     `/pkg/biology/reference/Homo_sapiens/GATK/hg38/Homo_sapiens_assembly38.fasta`
 
 
@@ -100,7 +102,6 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 * [An introduction to Linux for bioinformatics](https://sites.ualberta.ca/~stothard/downloads/linux_for_bioinformatics.pdf)
 * [Bioinformatics on the Command Line](https://vicbioinformatics.com/documents/command-line/#/)
 * [Introduction to Linux for bioinformatics](https://www.bits.vib.be/training-list/112-bits/training/upcoming-trainings/124-linux-for-bioinformatics)
-
 * [Broad Institute - genomics public data on Google cloud](https://console.cloud.google.com/storage/browser/genomics-public-data;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false)
 * [Broad Institute - bundle - Mutect2]([shorturl.at/knuN3](https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2))
 * [GATK tutorial data](https://drive.google.com/drive/folders/1aBcbV_Hlyg0wOOmZDDSBeIc0uw1r3f_w)
