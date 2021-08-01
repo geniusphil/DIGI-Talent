@@ -8,7 +8,7 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 課程中涵蓋關鍵概念和分析策略。 將探索由現代 DNA 定序技術帶來的一系列生物學問題，包括序列比對，遺傳變異鑑定，結構變異分析等。
 
 ---
-# Course lecture silide
+# Course lecture slide
 
 * [Course overview and Introduction to Linux](https://drive.google.com/drive/folders/1-6F-cK9fmOqr2-911gTH1D2s6Uabba19?usp=sharing)
 * [Intruduction to NGS Technologies](https://drive.google.com/drive/folders/1-rXCqgxBli7KAJHW9hDBLAfurP9VYF-f?usp=sharing) 
