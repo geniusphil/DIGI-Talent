@@ -93,7 +93,8 @@ DIGI+ Talent 跨域數位人才加速躍升計畫
 * [JAX-CNV 1.1.0](https://github.com/wanpinglee/JAX-CNV)
 * [Annovar (2019Oct24)](https://www.openbioinformatics.org/annovar/annovar_download_form.php)
 * [AnnotSV v3.0.9 ](https://github.com/lgmgeo/AnnotSV)
-
+* [IGV v2.10.2](https://software.broadinstitute.org/software/igv/download)
+* [IGV for web app](https://igv.org/)
 
 ---
 # Resource
